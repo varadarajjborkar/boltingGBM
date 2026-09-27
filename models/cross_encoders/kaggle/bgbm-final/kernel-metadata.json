@@ -1,0 +1,2 @@
+{"id": "aditbissa/bgbm-final", "title": "bgbm-final", "code_file": "main.py", "language": "python", "kernel_type": "script", "is_private": true,
+ "enable_gpu": false, "enable_internet": true, "dataset_sources": ["aditbissa/bgbm-code"], "competition_sources": [], "kernel_sources": ["aditbissa/bgbm-fetch", "aditbissa/bgbm-fetch2", "aditbissa/bgbm-block-train", "aditbissa/bgbm-block-test", "aditbissa/bgbm-train", "aditbissa/bgbm-merge"]}

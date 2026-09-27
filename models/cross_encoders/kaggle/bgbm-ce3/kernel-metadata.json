@@ -1,0 +1,1 @@
+{"id": "aditbissa/bgbm-ce3", "title": "bgbm-ce3", "code_file": "main.py", "language": "python", "kernel_type": "script", "is_private": true, "enable_gpu": true, "enable_internet": true, "dataset_sources": ["aditbissa/bgbm-code", "aditbissa/bgbm-exports"], "competition_sources": [], "kernel_sources": ["aditbissa/bgbm-fetch", "aditbissa/bgbm-block-train", "aditbissa/bgbm-train"]}

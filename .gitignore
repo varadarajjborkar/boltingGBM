@@ -1,0 +1,31 @@
+# Competition data and everything derived from it (large, not ours to redistribute)
+data/student_resource/
+work/
+work_*/
+output/
+output_bucket/
+logs/
+scratch*/
+*.parquet
+*.npy
+*.tsv
+*.zip
+*.log
+
+# Python environment and caches
+.venv/
+venv*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets and keys
+*.pem
+*.key
+.env
+.aws/
+
+# Editor files
+.DS_Store
+.vscode/
+.idea/
