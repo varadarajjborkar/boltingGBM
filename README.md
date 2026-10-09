@@ -7,7 +7,7 @@ each Source 1 record. Scored by macro F0.5 per Source 1 entity, so a false merge
 | | |
 | --- | --- |
 | **Best public leaderboard score** | **0.988757** (macro F0.5) |
-| **Final rank** | **181** of about 89,399 teams |
+| **Final rank** | **181** of about 10,600 teams |
 | **Validation score** | 0.990 (held-out states, cross-fitted) |
 | **Stack** | Python, Polars, LightGBM, fine-tuned transformer cross-encoders |
 
